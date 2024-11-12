@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tvRightadressMargin">115dp</dimen>
+    <dimen name="smallButtonSize">130dp</dimen>
+    <dimen name="smallButtonHeight">55dp</dimen>
+    <dimen name="buttonCorners">21dp</dimen>
+    <dimen name="mediumButtonwidth">200dp</dimen>
+    <dimen name="mediumButtonHeight">55dp</dimen>
+    <dimen name="editTextHeight">60dp</dimen>
+    <dimen name="bigButtonwidth">270dp</dimen>
+    <dimen name="bigButtonHeight">55dp</dimen>
+    <dimen name="boxHeight">60dp</dimen>
+    <dimen name="linearLayoutResetHeight">70dp</dimen>
+    <dimen name="bottomNavHeight">70dp</dimen>
+</resources>

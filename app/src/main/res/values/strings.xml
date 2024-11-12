@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Randi\'s</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rightAddress">The right Address\nfor Shopping\nAnyday</string>
+    <string name="quality">It is now very ease to reach the\nbesst quality among the\nproducts on the internet\n</string>
+    <string name="Start">Start\n</string>
+    <string name="login">Let\'s Login\n</string>
+    <string name="account">Don\'t have an account? Register!</string>
+    <string name="register">Let\'s Register</string>
+    <string name="enterYourName">Enter Your Name\n</string>
+    <string name="alreadyhaveAnAccount">Already Have An Account!</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="we_will_send_you_the_password_reset_link_to_your_email">We will send you the password reset link to your email</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="search_now">Search Now</string>
+</resources>
